@@ -1,0 +1,370 @@
+{
+  "total_images": 45,
+  "copied_and_verified": 45,
+  "failed": 0,
+  "database_updated": false,
+  "old_objects_deleted": false,
+  "results": [
+    {
+      "old_url": "/images/cardamom.jpeg",
+      "new_url": "/storage/image/site-images/b1b8f6a5e99a497b930dfeec7ea6b2d6.jpeg",
+      "destination_key": "site-images/b1b8f6a5e99a497b930dfeec7ea6b2d6.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 170123,
+      "verified": true
+    },
+    {
+      "old_url": "/images/g1.jpeg",
+      "new_url": "/storage/image/site-images/ef20ab107d82475ea504a046bc7fe055.jpeg",
+      "destination_key": "site-images/ef20ab107d82475ea504a046bc7fe055.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 155353,
+      "verified": true
+    },
+    {
+      "old_url": "/images/cloves.jpeg",
+      "new_url": "/storage/image/site-images/d4fe3bef880a4a64a782acbc6c6c1ce8.jpeg",
+      "destination_key": "site-images/d4fe3bef880a4a64a782acbc6c6c1ce8.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 60034,
+      "verified": true
+    },
+    {
+      "old_url": "/images/cumin-seeds.jpeg",
+      "new_url": "/storage/image/site-images/cf6fed5f68c54335947804514bbe6bd0.jpeg",
+      "destination_key": "site-images/cf6fed5f68c54335947804514bbe6bd0.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 161941,
+      "verified": true
+    },
+    {
+      "old_url": "/uploads/4ffda6bb7fd140d6a3b2fdb463c43247.jpeg",
+      "new_url": "/storage/image/site-images/ad13c118e2b449c3990c392c7cc05df9.jpeg",
+      "destination_key": "site-images/ad13c118e2b449c3990c392c7cc05df9.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 139202,
+      "verified": true
+    },
+    {
+      "old_url": "/images/chickenfrymasla.jpeg",
+      "new_url": "/storage/image/site-images/261188f71f0b4e2090e2083f9edac7fd.jpeg",
+      "destination_key": "site-images/261188f71f0b4e2090e2083f9edac7fd.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 154652,
+      "verified": true
+    },
+    {
+      "old_url": "/images/muttonmasala.jpeg",
+      "new_url": "/storage/image/site-images/9fe40b3400fb45d0a07a55c72b6b668e.jpeg",
+      "destination_key": "site-images/9fe40b3400fb45d0a07a55c72b6b668e.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 143736,
+      "verified": true
+    },
+    {
+      "old_url": "/images/fennel-seeds.jpeg",
+      "new_url": "/storage/image/site-images/47bbce9f3b004c5a8a2c690a66d6c6c2.jpeg",
+      "destination_key": "site-images/47bbce9f3b004c5a8a2c690a66d6c6c2.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 127754,
+      "verified": true
+    },
+    {
+      "old_url": "/images/chicken65masala.jpeg",
+      "new_url": "/storage/image/site-images/6c8c128ba73e45979ebeaf1941052ec5.jpeg",
+      "destination_key": "site-images/6c8c128ba73e45979ebeaf1941052ec5.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 151788,
+      "verified": true
+    },
+    {
+      "old_url": "/images/b3.jpeg",
+      "new_url": "/storage/image/site-images/24fae22f168945c79d185aae1ce6f165.jpeg",
+      "destination_key": "site-images/24fae22f168945c79d185aae1ce6f165.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 151477,
+      "verified": true
+    },
+    {
+      "old_url": "/images/chickenmasala.jpeg",
+      "new_url": "/storage/image/site-images/976d711afc39441aa4e9e578e607b1aa.jpeg",
+      "destination_key": "site-images/976d711afc39441aa4e9e578e607b1aa.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 137238,
+      "verified": true
+    },
+    {
+      "old_url": "/images/eggricemasala.jpeg",
+      "new_url": "/storage/image/site-images/6415c0cc6c9b4d93a11112cf6173fb98.jpeg",
+      "destination_key": "site-images/6415c0cc6c9b4d93a11112cf6173fb98.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 150028,
+      "verified": true
+    },
+    {
+      "old_url": "/images/b1.jpeg",
+      "new_url": "/storage/image/site-images/6e0ec8f162304d6a83b512a5dcc6cfb6.jpeg",
+      "destination_key": "site-images/6e0ec8f162304d6a83b512a5dcc6cfb6.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 161350,
+      "verified": true
+    },
+    {
+      "old_url": "/images/idlypodi.jpeg",
+      "new_url": "/storage/image/site-images/9cc3e02efbe440739657309dfcd38b6c.jpeg",
+      "destination_key": "site-images/9cc3e02efbe440739657309dfcd38b6c.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 145629,
+      "verified": true
+    },
+    {
+      "old_url": "/images/vegfriedricemasla.jpeg",
+      "new_url": "/storage/image/site-images/cd3fbe6f0039428680f26f01b319c4a2.jpeg",
+      "destination_key": "site-images/cd3fbe6f0039428680f26f01b319c4a2.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 148987,
+      "verified": true
+    },
+    {
+      "old_url": "/images/t2.jpeg",
+      "new_url": "/storage/image/site-images/9ed3bc6f40dd4e8e8926e8935566715b.jpeg",
+      "destination_key": "site-images/9ed3bc6f40dd4e8e8926e8935566715b.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 142977,
+      "verified": true
+    },
+    {
+      "old_url": "/images/sambarmasla.jpeg",
+      "new_url": "/storage/image/site-images/5b55cef3c3494c1182f4d6fc51325e35.jpeg",
+      "destination_key": "site-images/5b55cef3c3494c1182f4d6fc51325e35.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 139202,
+      "verified": true
+    },
+    {
+      "old_url": "/images/r2.jpeg",
+      "new_url": "/storage/image/site-images/f1d0fc8d026a4b45ab9e02fe9e059a0b.jpeg",
+      "destination_key": "site-images/f1d0fc8d026a4b45ab9e02fe9e059a0b.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 149935,
+      "verified": true
+    },
+    {
+      "old_url": "/images/spice-gift-box.jpeg",
+      "new_url": "/storage/image/site-images/a0f76cd31b6e49639c5de31331cd65e2.jpeg",
+      "destination_key": "site-images/a0f76cd31b6e49639c5de31331cd65e2.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 47914,
+      "verified": true
+    },
+    {
+      "old_url": "/images/dosapodi.jpeg",
+      "new_url": "/storage/image/site-images/14a0123fe3734654a65734939e804fd0.jpeg",
+      "destination_key": "site-images/14a0123fe3734654a65734939e804fd0.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 151544,
+      "verified": true
+    },
+    {
+      "old_url": "/images/fishmasala.jpeg",
+      "new_url": "/storage/image/site-images/b73d443569394be0bd0008dd22ea4cc6.jpeg",
+      "destination_key": "site-images/b73d443569394be0bd0008dd22ea4cc6.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 141386,
+      "verified": true
+    },
+    {
+      "old_url": "/images/spice-starter-kit.jpeg",
+      "new_url": "/storage/image/site-images/e540bffd765b4764a68575245af2741d.jpeg",
+      "destination_key": "site-images/e540bffd765b4764a68575245af2741d.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 479180,
+      "verified": true
+    },
+    {
+      "old_url": "/images/rassmmasla.jpeg",
+      "new_url": "/storage/image/site-images/7e735c618846438a8300c7634fd592f9.jpeg",
+      "destination_key": "site-images/7e735c618846438a8300c7634fd592f9.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 127204,
+      "verified": true
+    },
+    {
+      "old_url": "/images/cinnamon.jpeg",
+      "new_url": "/storage/image/site-images/32b76990891f4db7b5dd7a91496a14fb.jpeg",
+      "destination_key": "site-images/32b76990891f4db7b5dd7a91496a14fb.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 116586,
+      "verified": true
+    },
+    {
+      "old_url": "/images/r1.jpeg",
+      "new_url": "/storage/image/site-images/ba915919e611418da5eb8b82d135cc67.jpeg",
+      "destination_key": "site-images/ba915919e611418da5eb8b82d135cc67.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 139702,
+      "verified": true
+    },
+    {
+      "old_url": "/uploads/22dd26c28c2e4ccda2b8610da8c24930.jpeg",
+      "new_url": "/storage/image/site-images/bbde66d5582b4017b271b5ee611185ae.jpeg",
+      "destination_key": "site-images/bbde66d5582b4017b271b5ee611185ae.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 155524,
+      "verified": true
+    },
+    {
+      "old_url": "/uploads/aefb0aae800244299f6f6de3f514ef57.jpeg",
+      "new_url": "/storage/image/site-images/63a8fcc02abd4cb6bf762a22e8ee1652.jpeg",
+      "destination_key": "site-images/63a8fcc02abd4cb6bf762a22e8ee1652.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 138805,
+      "verified": true
+    },
+    {
+      "old_url": "/uploads/6c3d53230c48467d871254bf9ab776c2.jpeg",
+      "new_url": "/storage/image/site-images/74846e907dbd4428b7ecd2eb497c2a64.jpeg",
+      "destination_key": "site-images/74846e907dbd4428b7ecd2eb497c2a64.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 194964,
+      "verified": true
+    },
+    {
+      "old_url": "/uploads/e8666452c58a432ab9fd8b2de9cc53dc.jpeg",
+      "new_url": "/storage/image/site-images/e95784427cc84325abbb195774780fe6.jpeg",
+      "destination_key": "site-images/e95784427cc84325abbb195774780fe6.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 210940,
+      "verified": true
+    },
+    {
+      "old_url": "/uploads/5685552b76274c54be92557fd2d8cb54.jpeg",
+      "new_url": "/storage/image/site-images/cc3549ea26c54f1c9ffad5833adf7052.jpeg",
+      "destination_key": "site-images/cc3549ea26c54f1c9ffad5833adf7052.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 222703,
+      "verified": true
+    },
+    {
+      "old_url": "/images/t1.jpeg",
+      "new_url": "/storage/image/site-images/eea5dce2d6e84624acf1fd5280bed190.jpeg",
+      "destination_key": "site-images/eea5dce2d6e84624acf1fd5280bed190.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 199912,
+      "verified": true
+    },
+    {
+      "old_url": "/images/k5.jpeg",
+      "new_url": "/storage/image/site-images/aae9c0a3581d4437a8c6168f70fc0d68.jpeg",
+      "destination_key": "site-images/aae9c0a3581d4437a8c6168f70fc0d68.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 141996,
+      "verified": true
+    },
+    {
+      "old_url": "/images/k3.jpeg",
+      "new_url": "/storage/image/site-images/9bdc8c96d54f444ab30f2dfb8b7fa9e5.jpeg",
+      "destination_key": "site-images/9bdc8c96d54f444ab30f2dfb8b7fa9e5.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 148527,
+      "verified": true
+    },
+    {
+      "old_url": "/images/k2.jpeg",
+      "new_url": "/storage/image/site-images/bd8c7c3278b54fe18740f24cc6604826.jpeg",
+      "destination_key": "site-images/bd8c7c3278b54fe18740f24cc6604826.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 147091,
+      "verified": true
+    },
+    {
+      "old_url": "/images/k4.jpeg",
+      "new_url": "/storage/image/site-images/a2cef1fb27424322997c5ef5d40f7696.jpeg",
+      "destination_key": "site-images/a2cef1fb27424322997c5ef5d40f7696.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 130275,
+      "verified": true
+    },
+    {
+      "old_url": "/images/k1.jpeg",
+      "new_url": "/storage/image/site-images/7a5165c63ea74b99a76904f73839a714.jpeg",
+      "destination_key": "site-images/7a5165c63ea74b99a76904f73839a714.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 147571,
+      "verified": true
+    },
+    {
+      "old_url": "/images/cc1.jpeg",
+      "new_url": "/storage/image/site-images/41df48a359d54c9db2a892170ffbc8bf.jpeg",
+      "destination_key": "site-images/41df48a359d54c9db2a892170ffbc8bf.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 138805,
+      "verified": true
+    },
+    {
+      "old_url": "/images/d1.jpeg",
+      "new_url": "/storage/image/site-images/db77d02b31cb4b67be84f48dbacc17b1.jpeg",
+      "destination_key": "site-images/db77d02b31cb4b67be84f48dbacc17b1.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 222703,
+      "verified": true
+    },
+    {
+      "old_url": "/images/m1.jpeg",
+      "new_url": "/storage/image/site-images/1732ac1f5fa24920bc3f34ea67ecb495.jpeg",
+      "destination_key": "site-images/1732ac1f5fa24920bc3f34ea67ecb495.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 187118,
+      "verified": true
+    },
+    {
+      "old_url": "/images/f2.jpeg",
+      "new_url": "/storage/image/site-images/54b587e19fdb4c53a0091ecdacda0099.jpeg",
+      "destination_key": "site-images/54b587e19fdb4c53a0091ecdacda0099.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 210940,
+      "verified": true
+    },
+    {
+      "old_url": "/images/f1.jpeg",
+      "new_url": "/storage/image/site-images/9c976911927f4177accc7e9a3f04a1c4.jpeg",
+      "destination_key": "site-images/9c976911927f4177accc7e9a3f04a1c4.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 194964,
+      "verified": true
+    },
+    {
+      "old_url": "/images/veg-staples-bundle.jpeg",
+      "new_url": "/storage/image/site-images/45497fe0478e4703b84df14dad08927a.jpeg",
+      "destination_key": "site-images/45497fe0478e4703b84df14dad08927a.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 230065,
+      "verified": true
+    },
+    {
+      "old_url": "/images/chicken-bundle.jpeg",
+      "new_url": "/storage/image/site-images/1a8d2c25162343e2b3033af3116b8197.jpeg",
+      "destination_key": "site-images/1a8d2c25162343e2b3033af3116b8197.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 198118,
+      "verified": true
+    },
+    {
+      "old_url": "/images/mutton-bundle.jpeg",
+      "new_url": "/storage/image/site-images/5ff92b4df4a64bd9aefb2e50ac2f2ef5.jpeg",
+      "destination_key": "site-images/5ff92b4df4a64bd9aefb2e50ac2f2ef5.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 144711,
+      "verified": true
+    },
+    {
+      "old_url": "/uploads/f50986ae6a584fefbfba5b1f9e6a2305.jpeg",
+      "new_url": "/storage/image/site-images/40d3f7988137400fbc81c30e9bc5432a.jpeg",
+      "destination_key": "site-images/40d3f7988137400fbc81c30e9bc5432a.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 158397,
+      "verified": true
+    }
+  ],
+  "errors": []
+}

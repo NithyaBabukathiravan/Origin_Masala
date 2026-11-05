@@ -1,0 +1,286 @@
+{
+  "products": {
+    "image_columns": [
+      "image"
+    ],
+    "rows": [
+      {
+        "image": "/images/cardamom.jpeg",
+        "_row_id": "50ea1849-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Cardamom"
+      },
+      {
+        "image": "/images/g1.jpeg",
+        "_row_id": "50ea584a-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Garam Masala"
+      },
+      {
+        "image": "/images/cloves.jpeg",
+        "_row_id": "50ea81b5-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Cloves"
+      },
+      {
+        "image": "/images/cumin-seeds.jpeg",
+        "_row_id": "50eaa3a1-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Cumin Seeds"
+      },
+      {
+        "image": "/uploads/4ffda6bb7fd140d6a3b2fdb463c43247.jpeg",
+        "_row_id": "50eabf60-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Sambar Masala"
+      },
+      {
+        "image": "/images/chickenfrymasla.jpeg",
+        "_row_id": "50eada19-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Chicken Fry Masala"
+      },
+      {
+        "image": "/images/muttonmasala.jpeg",
+        "_row_id": "50eaf38b-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Mutton Masala"
+      },
+      {
+        "image": "/images/fennel-seeds.jpeg",
+        "_row_id": "50eb0891-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Fennel Seeds"
+      },
+      {
+        "image": "/images/chicken65masala.jpeg",
+        "_row_id": "50eb1c07-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Chicken 65 Masala"
+      },
+      {
+        "image": "/images/b3.jpeg",
+        "_row_id": "50eb2e14-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Black Pepper Powder"
+      },
+      {
+        "image": "/images/chickenmasala.jpeg",
+        "_row_id": "50eb46d5-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Chicken Masala"
+      },
+      {
+        "image": "/images/eggricemasala.jpeg",
+        "_row_id": "50ebae37-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Egg Rice Masala"
+      },
+      {
+        "image": "/images/b1.jpeg",
+        "_row_id": "50ec353d-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Special Biriyani Masala"
+      },
+      {
+        "image": "/images/idlypodi.jpeg",
+        "_row_id": "50ec661b-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Idly Podi"
+      },
+      {
+        "image": "/images/vegfriedricemasla.jpeg",
+        "_row_id": "50eca574-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Veg Fried Rice Masala"
+      },
+      {
+        "image": "/images/t2.jpeg",
+        "_row_id": "50ed10f1-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Turmeric Powder"
+      },
+      {
+        "image": "/images/sambarmasla.jpeg",
+        "_row_id": "50ed4e75-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Traditional Sambar Masala"
+      },
+      {
+        "image": "/images/r2.jpeg",
+        "_row_id": "50ed656a-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Red Chilli Powder"
+      },
+      {
+        "image": "/images/spice-gift-box.jpeg",
+        "_row_id": "50ed7715-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Spice Gift Box"
+      },
+      {
+        "image": "/images/dosapodi.jpeg",
+        "_row_id": "50ed8ca2-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Biriyani Masala"
+      },
+      {
+        "image": "/images/dosapodi.jpeg",
+        "_row_id": "50eda347-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Dosa Podi"
+      },
+      {
+        "image": "/images/fishmasala.jpeg",
+        "_row_id": "50edb5e9-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Fish Masala"
+      },
+      {
+        "image": "/images/spice-starter-kit.jpeg",
+        "_row_id": "50edc814-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Spice Starter Kit"
+      },
+      {
+        "image": "/images/rassmmasla.jpeg",
+        "_row_id": "50eddb1a-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Homemade Rasam Masala"
+      },
+      {
+        "image": "/images/cinnamon.jpeg",
+        "_row_id": "50edede6-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Cinnamon"
+      },
+      {
+        "image": "/images/r1.jpeg",
+        "_row_id": "50edff38-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Rasam Powder"
+      },
+      {
+        "image": "/images/spice-starter-kit.jpeg",
+        "_row_id": "50ee257e-d1eb-11f1-b781-f43909e5c165",
+        "_row_name": "Spice Collection"
+      }
+    ]
+  },
+  "categories": {
+    "image_columns": [
+      "image_url"
+    ],
+    "rows": [
+      {
+        "image_url": "/uploads/22dd26c28c2e4ccda2b8610da8c24930.jpeg",
+        "_row_id": "05c3b8a9-d159-4c10-bff2-31f524380b30",
+        "_row_name": "gravy"
+      },
+      {
+        "image_url": "/images/cumin-seeds.jpeg",
+        "_row_id": "0e4151c7-6f2b-419d-ac8f-e107dbcd22b9",
+        "_row_name": "Whole Spices"
+      },
+      {
+        "image_url": "/images/r2.jpeg",
+        "_row_id": "2e03fdba-e070-49c1-9d2c-989436786052",
+        "_row_name": "Spice Powders"
+      },
+      {
+        "image_url": "/images/spice-gift-box.jpeg",
+        "_row_id": "b0268a5e-80dd-4cdd-8d50-1eda1ae0e37e",
+        "_row_name": "Combo & Gift Packs"
+      },
+      {
+        "image_url": "/uploads/aefb0aae800244299f6f6de3f514ef57.jpeg",
+        "_row_id": "bcdbbc4f-d32f-11f1-b781-f43909e5c165",
+        "_row_name": "Curry & Kulambu"
+      },
+      {
+        "image_url": "/uploads/6c3d53230c48467d871254bf9ab776c2.jpeg",
+        "_row_id": "bcdc1f08-d32f-11f1-b781-f43909e5c165",
+        "_row_name": "Fry & Varuval"
+      },
+      {
+        "image_url": "/uploads/e8666452c58a432ab9fd8b2de9cc53dc.jpeg",
+        "_row_id": "bcdc26e6-d32f-11f1-b781-f43909e5c165",
+        "_row_name": "Friedrice"
+      },
+      {
+        "image_url": "/uploads/5685552b76274c54be92557fd2d8cb54.jpeg",
+        "_row_id": "bcdc6d44-d32f-11f1-b781-f43909e5c165",
+        "_row_name": "Breakfast&podi"
+      },
+      {
+        "image_url": "/images/t1.jpeg",
+        "_row_id": "da8dc00f-4dc5-48e2-9528-950a04c4d638",
+        "_row_name": "Traditional Masalas"
+      }
+    ]
+  },
+  "recipes": {
+    "image_columns": [
+      "image"
+    ],
+    "rows": [
+      {
+        "image": "/images/k5.jpeg",
+        "_row_id": "5f76e7c5-af3c-4b0d-82b4-df129374ea59",
+        "_row_title": "Vegetable Biryani"
+      },
+      {
+        "image": "/images/k3.jpeg",
+        "_row_id": "6d970525-dffb-40d3-a257-a6350cc516a6",
+        "_row_title": "Mutton Curry"
+      },
+      {
+        "image": "/images/k2.jpeg",
+        "_row_id": "c1dc8d15-eea6-4047-8086-ee4c7c2e00ba",
+        "_row_title": "Mutton Biryani"
+      },
+      {
+        "image": "/images/k4.jpeg",
+        "_row_id": "c850bb90-45b5-4691-8aba-7a6f034ce574",
+        "_row_title": "Paneer Masala"
+      },
+      {
+        "image": "/images/k1.jpeg",
+        "_row_id": "eb329360-b61b-4b39-a218-3b5444686844",
+        "_row_title": "Chicken Biryani"
+      },
+      {
+        "image": "/images/cc1.jpeg",
+        "_row_id": "eb9f6b6a-1f59-49eb-924e-64922cdf455e",
+        "_row_title": "Spicy Chicken Curry"
+      }
+    ]
+  },
+  "recipe_categories": {
+    "image_columns": [
+      "image_url"
+    ],
+    "rows": [
+      {
+        "image_url": "/images/k3.jpeg",
+        "_row_id": "1617aaa9-967a-448a-a13d-a1205bf32f95",
+        "_row_name": "Mutton"
+      },
+      {
+        "image_url": "/images/cc1.jpeg",
+        "_row_id": "31962fb8-f397-4dd2-bfaf-2a094e504735",
+        "_row_name": "Chicken"
+      },
+      {
+        "image_url": "/images/k4.jpeg",
+        "_row_id": "f4dc4730-4c44-4b2d-ab3c-7a003a7b29a9",
+        "_row_name": "Vegetarian"
+      }
+    ]
+  },
+  "home_category_cards": {
+    "image_columns": [
+      "image_url"
+    ],
+    "rows": [
+      {
+        "image_url": "/images/d1.jpeg",
+        "_row_id": "breakfast-podi",
+        "_row_name": "Breakfast & Podi"
+      },
+      {
+        "image_url": "/images/m1.jpeg",
+        "_row_id": "curry-kulambu",
+        "_row_name": "Curry & Kulambu"
+      },
+      {
+        "image_url": "/images/f2.jpeg",
+        "_row_id": "fried-rice",
+        "_row_name": "Fried Rice"
+      },
+      {
+        "image_url": "/images/f1.jpeg",
+        "_row_id": "fry-varuval",
+        "_row_name": "Fry & Varuval"
+      }
+    ]
+  },
+  "homepage_config": {
+    "image_columns": [],
+    "rows": []
+  }
+}

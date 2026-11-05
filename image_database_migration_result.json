@@ -1,0 +1,13 @@
+{
+  "database_updated": true,
+  "unique_url_mappings": 45,
+  "table_changes": {
+    "products.image": 27,
+    "categories.image_url": 9,
+    "recipes.image": 6,
+    "recipe_categories.image_url": 3,
+    "home_category_cards.image_url": 4
+  },
+  "homepage_config_image_references_changed": 11,
+  "old_images_deleted": false
+}

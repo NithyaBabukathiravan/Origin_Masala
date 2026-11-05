@@ -1,0 +1,546 @@
+{
+  "database_updated": false,
+  "rustfs_objects_copied": false,
+  "total_references": 61,
+  "unique_images": 45,
+  "available_references": 61,
+  "missing_references": 0,
+  "mapping": {
+    "/images/cardamom.jpeg": "/storage/image/site-images/b1b8f6a5e99a497b930dfeec7ea6b2d6.jpeg",
+    "/images/g1.jpeg": "/storage/image/site-images/ef20ab107d82475ea504a046bc7fe055.jpeg",
+    "/images/cloves.jpeg": "/storage/image/site-images/d4fe3bef880a4a64a782acbc6c6c1ce8.jpeg",
+    "/images/cumin-seeds.jpeg": "/storage/image/site-images/cf6fed5f68c54335947804514bbe6bd0.jpeg",
+    "/uploads/4ffda6bb7fd140d6a3b2fdb463c43247.jpeg": "/storage/image/site-images/ad13c118e2b449c3990c392c7cc05df9.jpeg",
+    "/images/chickenfrymasla.jpeg": "/storage/image/site-images/261188f71f0b4e2090e2083f9edac7fd.jpeg",
+    "/images/muttonmasala.jpeg": "/storage/image/site-images/9fe40b3400fb45d0a07a55c72b6b668e.jpeg",
+    "/images/fennel-seeds.jpeg": "/storage/image/site-images/47bbce9f3b004c5a8a2c690a66d6c6c2.jpeg",
+    "/images/chicken65masala.jpeg": "/storage/image/site-images/6c8c128ba73e45979ebeaf1941052ec5.jpeg",
+    "/images/b3.jpeg": "/storage/image/site-images/24fae22f168945c79d185aae1ce6f165.jpeg",
+    "/images/chickenmasala.jpeg": "/storage/image/site-images/976d711afc39441aa4e9e578e607b1aa.jpeg",
+    "/images/eggricemasala.jpeg": "/storage/image/site-images/6415c0cc6c9b4d93a11112cf6173fb98.jpeg",
+    "/images/b1.jpeg": "/storage/image/site-images/6e0ec8f162304d6a83b512a5dcc6cfb6.jpeg",
+    "/images/idlypodi.jpeg": "/storage/image/site-images/9cc3e02efbe440739657309dfcd38b6c.jpeg",
+    "/images/vegfriedricemasla.jpeg": "/storage/image/site-images/cd3fbe6f0039428680f26f01b319c4a2.jpeg",
+    "/images/t2.jpeg": "/storage/image/site-images/9ed3bc6f40dd4e8e8926e8935566715b.jpeg",
+    "/images/sambarmasla.jpeg": "/storage/image/site-images/5b55cef3c3494c1182f4d6fc51325e35.jpeg",
+    "/images/r2.jpeg": "/storage/image/site-images/f1d0fc8d026a4b45ab9e02fe9e059a0b.jpeg",
+    "/images/spice-gift-box.jpeg": "/storage/image/site-images/a0f76cd31b6e49639c5de31331cd65e2.jpeg",
+    "/images/dosapodi.jpeg": "/storage/image/site-images/14a0123fe3734654a65734939e804fd0.jpeg",
+    "/images/fishmasala.jpeg": "/storage/image/site-images/b73d443569394be0bd0008dd22ea4cc6.jpeg",
+    "/images/spice-starter-kit.jpeg": "/storage/image/site-images/e540bffd765b4764a68575245af2741d.jpeg",
+    "/images/rassmmasla.jpeg": "/storage/image/site-images/7e735c618846438a8300c7634fd592f9.jpeg",
+    "/images/cinnamon.jpeg": "/storage/image/site-images/32b76990891f4db7b5dd7a91496a14fb.jpeg",
+    "/images/r1.jpeg": "/storage/image/site-images/ba915919e611418da5eb8b82d135cc67.jpeg",
+    "/uploads/22dd26c28c2e4ccda2b8610da8c24930.jpeg": "/storage/image/site-images/bbde66d5582b4017b271b5ee611185ae.jpeg",
+    "/uploads/aefb0aae800244299f6f6de3f514ef57.jpeg": "/storage/image/site-images/63a8fcc02abd4cb6bf762a22e8ee1652.jpeg",
+    "/uploads/6c3d53230c48467d871254bf9ab776c2.jpeg": "/storage/image/site-images/74846e907dbd4428b7ecd2eb497c2a64.jpeg",
+    "/uploads/e8666452c58a432ab9fd8b2de9cc53dc.jpeg": "/storage/image/site-images/e95784427cc84325abbb195774780fe6.jpeg",
+    "/uploads/5685552b76274c54be92557fd2d8cb54.jpeg": "/storage/image/site-images/cc3549ea26c54f1c9ffad5833adf7052.jpeg",
+    "/images/t1.jpeg": "/storage/image/site-images/eea5dce2d6e84624acf1fd5280bed190.jpeg",
+    "/images/k5.jpeg": "/storage/image/site-images/aae9c0a3581d4437a8c6168f70fc0d68.jpeg",
+    "/images/k3.jpeg": "/storage/image/site-images/9bdc8c96d54f444ab30f2dfb8b7fa9e5.jpeg",
+    "/images/k2.jpeg": "/storage/image/site-images/bd8c7c3278b54fe18740f24cc6604826.jpeg",
+    "/images/k4.jpeg": "/storage/image/site-images/a2cef1fb27424322997c5ef5d40f7696.jpeg",
+    "/images/k1.jpeg": "/storage/image/site-images/7a5165c63ea74b99a76904f73839a714.jpeg",
+    "/images/cc1.jpeg": "/storage/image/site-images/41df48a359d54c9db2a892170ffbc8bf.jpeg",
+    "/images/d1.jpeg": "/storage/image/site-images/db77d02b31cb4b67be84f48dbacc17b1.jpeg",
+    "/images/m1.jpeg": "/storage/image/site-images/1732ac1f5fa24920bc3f34ea67ecb495.jpeg",
+    "/images/f2.jpeg": "/storage/image/site-images/54b587e19fdb4c53a0091ecdacda0099.jpeg",
+    "/images/f1.jpeg": "/storage/image/site-images/9c976911927f4177accc7e9a3f04a1c4.jpeg",
+    "/images/veg-staples-bundle.jpeg": "/storage/image/site-images/45497fe0478e4703b84df14dad08927a.jpeg",
+    "/images/chicken-bundle.jpeg": "/storage/image/site-images/1a8d2c25162343e2b3033af3116b8197.jpeg",
+    "/images/mutton-bundle.jpeg": "/storage/image/site-images/5ff92b4df4a64bd9aefb2e50ac2f2ef5.jpeg",
+    "/uploads/f50986ae6a584fefbfba5b1f9e6a2305.jpeg": "/storage/image/site-images/40d3f7988137400fbc81c30e9bc5432a.jpeg"
+  },
+  "records": [
+    {
+      "location": "products.50ea1849-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/cardamom.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/cardamom.jpeg",
+      "new_url": "/storage/image/site-images/b1b8f6a5e99a497b930dfeec7ea6b2d6.jpeg"
+    },
+    {
+      "location": "products.50ea584a-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/g1.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/g1.jpeg",
+      "new_url": "/storage/image/site-images/ef20ab107d82475ea504a046bc7fe055.jpeg"
+    },
+    {
+      "location": "products.50ea81b5-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/cloves.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/cloves.jpeg",
+      "new_url": "/storage/image/site-images/d4fe3bef880a4a64a782acbc6c6c1ce8.jpeg"
+    },
+    {
+      "location": "products.50eaa3a1-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/cumin-seeds.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/cumin-seeds.jpeg",
+      "new_url": "/storage/image/site-images/cf6fed5f68c54335947804514bbe6bd0.jpeg"
+    },
+    {
+      "location": "products.50eabf60-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/uploads/4ffda6bb7fd140d6a3b2fdb463c43247.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\4ffda6bb7fd140d6a3b2fdb463c43247.jpeg",
+      "new_url": "/storage/image/site-images/ad13c118e2b449c3990c392c7cc05df9.jpeg"
+    },
+    {
+      "location": "products.50eada19-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/chickenfrymasla.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/chickenfrymasla.jpeg",
+      "new_url": "/storage/image/site-images/261188f71f0b4e2090e2083f9edac7fd.jpeg"
+    },
+    {
+      "location": "products.50eaf38b-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/muttonmasala.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/muttonmasala.jpeg",
+      "new_url": "/storage/image/site-images/9fe40b3400fb45d0a07a55c72b6b668e.jpeg"
+    },
+    {
+      "location": "products.50eb0891-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/fennel-seeds.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/fennel-seeds.jpeg",
+      "new_url": "/storage/image/site-images/47bbce9f3b004c5a8a2c690a66d6c6c2.jpeg"
+    },
+    {
+      "location": "products.50eb1c07-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/chicken65masala.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/chicken65masala.jpeg",
+      "new_url": "/storage/image/site-images/6c8c128ba73e45979ebeaf1941052ec5.jpeg"
+    },
+    {
+      "location": "products.50eb2e14-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/b3.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/b3.jpeg",
+      "new_url": "/storage/image/site-images/24fae22f168945c79d185aae1ce6f165.jpeg"
+    },
+    {
+      "location": "products.50eb46d5-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/chickenmasala.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/chickenmasala.jpeg",
+      "new_url": "/storage/image/site-images/976d711afc39441aa4e9e578e607b1aa.jpeg"
+    },
+    {
+      "location": "products.50ebae37-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/eggricemasala.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/eggricemasala.jpeg",
+      "new_url": "/storage/image/site-images/6415c0cc6c9b4d93a11112cf6173fb98.jpeg"
+    },
+    {
+      "location": "products.50ec353d-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/b1.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/b1.jpeg",
+      "new_url": "/storage/image/site-images/6e0ec8f162304d6a83b512a5dcc6cfb6.jpeg"
+    },
+    {
+      "location": "products.50ec661b-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/idlypodi.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/idlypodi.jpeg",
+      "new_url": "/storage/image/site-images/9cc3e02efbe440739657309dfcd38b6c.jpeg"
+    },
+    {
+      "location": "products.50eca574-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/vegfriedricemasla.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/vegfriedricemasla.jpeg",
+      "new_url": "/storage/image/site-images/cd3fbe6f0039428680f26f01b319c4a2.jpeg"
+    },
+    {
+      "location": "products.50ed10f1-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/t2.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/t2.jpeg",
+      "new_url": "/storage/image/site-images/9ed3bc6f40dd4e8e8926e8935566715b.jpeg"
+    },
+    {
+      "location": "products.50ed4e75-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/sambarmasla.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/sambarmasla.jpeg",
+      "new_url": "/storage/image/site-images/5b55cef3c3494c1182f4d6fc51325e35.jpeg"
+    },
+    {
+      "location": "products.50ed656a-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/r2.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/r2.jpeg",
+      "new_url": "/storage/image/site-images/f1d0fc8d026a4b45ab9e02fe9e059a0b.jpeg"
+    },
+    {
+      "location": "products.50ed7715-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/spice-gift-box.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/spice-gift-box.jpeg",
+      "new_url": "/storage/image/site-images/a0f76cd31b6e49639c5de31331cd65e2.jpeg"
+    },
+    {
+      "location": "products.50ed8ca2-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/dosapodi.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/dosapodi.jpeg",
+      "new_url": "/storage/image/site-images/14a0123fe3734654a65734939e804fd0.jpeg"
+    },
+    {
+      "location": "products.50eda347-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/dosapodi.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/dosapodi.jpeg",
+      "new_url": "/storage/image/site-images/14a0123fe3734654a65734939e804fd0.jpeg"
+    },
+    {
+      "location": "products.50edb5e9-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/fishmasala.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/fishmasala.jpeg",
+      "new_url": "/storage/image/site-images/b73d443569394be0bd0008dd22ea4cc6.jpeg"
+    },
+    {
+      "location": "products.50edc814-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/spice-starter-kit.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/spice-starter-kit.jpeg",
+      "new_url": "/storage/image/site-images/e540bffd765b4764a68575245af2741d.jpeg"
+    },
+    {
+      "location": "products.50eddb1a-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/rassmmasla.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/rassmmasla.jpeg",
+      "new_url": "/storage/image/site-images/7e735c618846438a8300c7634fd592f9.jpeg"
+    },
+    {
+      "location": "products.50edede6-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/cinnamon.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/cinnamon.jpeg",
+      "new_url": "/storage/image/site-images/32b76990891f4db7b5dd7a91496a14fb.jpeg"
+    },
+    {
+      "location": "products.50edff38-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/r1.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/r1.jpeg",
+      "new_url": "/storage/image/site-images/ba915919e611418da5eb8b82d135cc67.jpeg"
+    },
+    {
+      "location": "products.50ee257e-d1eb-11f1-b781-f43909e5c165.image",
+      "old_url": "/images/spice-starter-kit.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/spice-starter-kit.jpeg",
+      "new_url": "/storage/image/site-images/e540bffd765b4764a68575245af2741d.jpeg"
+    },
+    {
+      "location": "categories.05c3b8a9-d159-4c10-bff2-31f524380b30.image_url",
+      "old_url": "/uploads/22dd26c28c2e4ccda2b8610da8c24930.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\22dd26c28c2e4ccda2b8610da8c24930.jpeg",
+      "new_url": "/storage/image/site-images/bbde66d5582b4017b271b5ee611185ae.jpeg"
+    },
+    {
+      "location": "categories.0e4151c7-6f2b-419d-ac8f-e107dbcd22b9.image_url",
+      "old_url": "/images/cumin-seeds.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/cumin-seeds.jpeg",
+      "new_url": "/storage/image/site-images/cf6fed5f68c54335947804514bbe6bd0.jpeg"
+    },
+    {
+      "location": "categories.2e03fdba-e070-49c1-9d2c-989436786052.image_url",
+      "old_url": "/images/r2.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/r2.jpeg",
+      "new_url": "/storage/image/site-images/f1d0fc8d026a4b45ab9e02fe9e059a0b.jpeg"
+    },
+    {
+      "location": "categories.b0268a5e-80dd-4cdd-8d50-1eda1ae0e37e.image_url",
+      "old_url": "/images/spice-gift-box.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/spice-gift-box.jpeg",
+      "new_url": "/storage/image/site-images/a0f76cd31b6e49639c5de31331cd65e2.jpeg"
+    },
+    {
+      "location": "categories.bcdbbc4f-d32f-11f1-b781-f43909e5c165.image_url",
+      "old_url": "/uploads/aefb0aae800244299f6f6de3f514ef57.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\aefb0aae800244299f6f6de3f514ef57.jpeg",
+      "new_url": "/storage/image/site-images/63a8fcc02abd4cb6bf762a22e8ee1652.jpeg"
+    },
+    {
+      "location": "categories.bcdc1f08-d32f-11f1-b781-f43909e5c165.image_url",
+      "old_url": "/uploads/6c3d53230c48467d871254bf9ab776c2.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\6c3d53230c48467d871254bf9ab776c2.jpeg",
+      "new_url": "/storage/image/site-images/74846e907dbd4428b7ecd2eb497c2a64.jpeg"
+    },
+    {
+      "location": "categories.bcdc26e6-d32f-11f1-b781-f43909e5c165.image_url",
+      "old_url": "/uploads/e8666452c58a432ab9fd8b2de9cc53dc.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\e8666452c58a432ab9fd8b2de9cc53dc.jpeg",
+      "new_url": "/storage/image/site-images/e95784427cc84325abbb195774780fe6.jpeg"
+    },
+    {
+      "location": "categories.bcdc6d44-d32f-11f1-b781-f43909e5c165.image_url",
+      "old_url": "/uploads/5685552b76274c54be92557fd2d8cb54.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\5685552b76274c54be92557fd2d8cb54.jpeg",
+      "new_url": "/storage/image/site-images/cc3549ea26c54f1c9ffad5833adf7052.jpeg"
+    },
+    {
+      "location": "categories.da8dc00f-4dc5-48e2-9528-950a04c4d638.image_url",
+      "old_url": "/images/t1.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/t1.jpeg",
+      "new_url": "/storage/image/site-images/eea5dce2d6e84624acf1fd5280bed190.jpeg"
+    },
+    {
+      "location": "recipes.5f76e7c5-af3c-4b0d-82b4-df129374ea59.image",
+      "old_url": "/images/k5.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/k5.jpeg",
+      "new_url": "/storage/image/site-images/aae9c0a3581d4437a8c6168f70fc0d68.jpeg"
+    },
+    {
+      "location": "recipes.6d970525-dffb-40d3-a257-a6350cc516a6.image",
+      "old_url": "/images/k3.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/k3.jpeg",
+      "new_url": "/storage/image/site-images/9bdc8c96d54f444ab30f2dfb8b7fa9e5.jpeg"
+    },
+    {
+      "location": "recipes.c1dc8d15-eea6-4047-8086-ee4c7c2e00ba.image",
+      "old_url": "/images/k2.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/k2.jpeg",
+      "new_url": "/storage/image/site-images/bd8c7c3278b54fe18740f24cc6604826.jpeg"
+    },
+    {
+      "location": "recipes.c850bb90-45b5-4691-8aba-7a6f034ce574.image",
+      "old_url": "/images/k4.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/k4.jpeg",
+      "new_url": "/storage/image/site-images/a2cef1fb27424322997c5ef5d40f7696.jpeg"
+    },
+    {
+      "location": "recipes.eb329360-b61b-4b39-a218-3b5444686844.image",
+      "old_url": "/images/k1.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/k1.jpeg",
+      "new_url": "/storage/image/site-images/7a5165c63ea74b99a76904f73839a714.jpeg"
+    },
+    {
+      "location": "recipes.eb9f6b6a-1f59-49eb-924e-64922cdf455e.image",
+      "old_url": "/images/cc1.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/cc1.jpeg",
+      "new_url": "/storage/image/site-images/41df48a359d54c9db2a892170ffbc8bf.jpeg"
+    },
+    {
+      "location": "recipe_categories.1617aaa9-967a-448a-a13d-a1205bf32f95.image_url",
+      "old_url": "/images/k3.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/k3.jpeg",
+      "new_url": "/storage/image/site-images/9bdc8c96d54f444ab30f2dfb8b7fa9e5.jpeg"
+    },
+    {
+      "location": "recipe_categories.31962fb8-f397-4dd2-bfaf-2a094e504735.image_url",
+      "old_url": "/images/cc1.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/cc1.jpeg",
+      "new_url": "/storage/image/site-images/41df48a359d54c9db2a892170ffbc8bf.jpeg"
+    },
+    {
+      "location": "recipe_categories.f4dc4730-4c44-4b2d-ab3c-7a003a7b29a9.image_url",
+      "old_url": "/images/k4.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/k4.jpeg",
+      "new_url": "/storage/image/site-images/a2cef1fb27424322997c5ef5d40f7696.jpeg"
+    },
+    {
+      "location": "home_category_cards.breakfast-podi.image_url",
+      "old_url": "/images/d1.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/d1.jpeg",
+      "new_url": "/storage/image/site-images/db77d02b31cb4b67be84f48dbacc17b1.jpeg"
+    },
+    {
+      "location": "home_category_cards.curry-kulambu.image_url",
+      "old_url": "/images/m1.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/m1.jpeg",
+      "new_url": "/storage/image/site-images/1732ac1f5fa24920bc3f34ea67ecb495.jpeg"
+    },
+    {
+      "location": "home_category_cards.fried-rice.image_url",
+      "old_url": "/images/f2.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/f2.jpeg",
+      "new_url": "/storage/image/site-images/54b587e19fdb4c53a0091ecdacda0099.jpeg"
+    },
+    {
+      "location": "home_category_cards.fry-varuval.image_url",
+      "old_url": "/images/f1.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/f1.jpeg",
+      "new_url": "/storage/image/site-images/9c976911927f4177accc7e9a3f04a1c4.jpeg"
+    },
+    {
+      "location": "homepage_config.1.categories[0].image_url",
+      "old_url": "/uploads/aefb0aae800244299f6f6de3f514ef57.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\aefb0aae800244299f6f6de3f514ef57.jpeg",
+      "new_url": "/storage/image/site-images/63a8fcc02abd4cb6bf762a22e8ee1652.jpeg"
+    },
+    {
+      "location": "homepage_config.1.categories[0].image",
+      "old_url": "/uploads/aefb0aae800244299f6f6de3f514ef57.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\aefb0aae800244299f6f6de3f514ef57.jpeg",
+      "new_url": "/storage/image/site-images/63a8fcc02abd4cb6bf762a22e8ee1652.jpeg"
+    },
+    {
+      "location": "homepage_config.1.categories[1].image_url",
+      "old_url": "/uploads/6c3d53230c48467d871254bf9ab776c2.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\6c3d53230c48467d871254bf9ab776c2.jpeg",
+      "new_url": "/storage/image/site-images/74846e907dbd4428b7ecd2eb497c2a64.jpeg"
+    },
+    {
+      "location": "homepage_config.1.categories[1].image",
+      "old_url": "/uploads/6c3d53230c48467d871254bf9ab776c2.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\6c3d53230c48467d871254bf9ab776c2.jpeg",
+      "new_url": "/storage/image/site-images/74846e907dbd4428b7ecd2eb497c2a64.jpeg"
+    },
+    {
+      "location": "homepage_config.1.categories[2].image_url",
+      "old_url": "/uploads/e8666452c58a432ab9fd8b2de9cc53dc.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\e8666452c58a432ab9fd8b2de9cc53dc.jpeg",
+      "new_url": "/storage/image/site-images/e95784427cc84325abbb195774780fe6.jpeg"
+    },
+    {
+      "location": "homepage_config.1.categories[2].image",
+      "old_url": "/uploads/e8666452c58a432ab9fd8b2de9cc53dc.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\e8666452c58a432ab9fd8b2de9cc53dc.jpeg",
+      "new_url": "/storage/image/site-images/e95784427cc84325abbb195774780fe6.jpeg"
+    },
+    {
+      "location": "homepage_config.1.categories[3].image_url",
+      "old_url": "/uploads/5685552b76274c54be92557fd2d8cb54.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\5685552b76274c54be92557fd2d8cb54.jpeg",
+      "new_url": "/storage/image/site-images/cc3549ea26c54f1c9ffad5833adf7052.jpeg"
+    },
+    {
+      "location": "homepage_config.1.categories[3].image",
+      "old_url": "/uploads/5685552b76274c54be92557fd2d8cb54.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\5685552b76274c54be92557fd2d8cb54.jpeg",
+      "new_url": "/storage/image/site-images/cc3549ea26c54f1c9ffad5833adf7052.jpeg"
+    },
+    {
+      "location": "homepage_config.1.combo_offers[0].image_url",
+      "old_url": "/images/veg-staples-bundle.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/veg-staples-bundle.jpeg",
+      "new_url": "/storage/image/site-images/45497fe0478e4703b84df14dad08927a.jpeg"
+    },
+    {
+      "location": "homepage_config.1.combo_offers[1].image_url",
+      "old_url": "/images/chicken-bundle.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/chicken-bundle.jpeg",
+      "new_url": "/storage/image/site-images/1a8d2c25162343e2b3033af3116b8197.jpeg"
+    },
+    {
+      "location": "homepage_config.1.combo_offers[2].image_url",
+      "old_url": "/images/mutton-bundle.jpeg",
+      "source_exists": true,
+      "source_type": "RustFS",
+      "source_info": "images/mutton-bundle.jpeg",
+      "new_url": "/storage/image/site-images/5ff92b4df4a64bd9aefb2e50ac2f2ef5.jpeg"
+    },
+    {
+      "location": "homepage_config.1.combo_offers[3].image_url",
+      "old_url": "/uploads/f50986ae6a584fefbfba5b1f9e6a2305.jpeg",
+      "source_exists": true,
+      "source_type": "Local uploads",
+      "source_info": "C:\\Users\\HP 840 G3\\Desktop\\nsh\\backend\\uploads\\f50986ae6a584fefbfba5b1f9e6a2305.jpeg",
+      "new_url": "/storage/image/site-images/40d3f7988137400fbc81c30e9bc5432a.jpeg"
+    }
+  ],
+  "errors": []
+}
